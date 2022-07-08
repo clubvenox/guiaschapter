@@ -2,6 +2,9 @@
 layout: page
 title : ¿Es momento de cambio?
 ---
+
+> Iniciativa del Chapter Centro en democratizas las deciciones del chapter. He aquí la presentación y la propuesta.
+
 *Madrid Agosto 2019*
 
 Hola socios,
