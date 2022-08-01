@@ -4,6 +4,8 @@ title: Votación telemática.
 date: 2019-09-06
 category : Orgánica
 ---
+> Dada la reciente aparición wn Whatsapp de la funcionalidad de reaccionar ante un mensaje, consideramos que este modo de votación queda obsoleto.
+> Queda pendiente actualizar este texto para actualizar el proceso y facilitar la expresión de la voluntad de los socios de un modo mas sencillo al descrito.
 
 Esta guía pretende definir un modelos de gobierno donde los socios tengan mayor protagonismo en las decisiones que se toman.
 Este ejercicio democrático históricamente ha sucedido a través de votaciones presenciales en asamblea. Si queremos que los socios esten mas involucrados este modelo no es suficiente dado el numero de asambleas que se convocan y las posibilidades individuales de poder asistir a las mismas.
